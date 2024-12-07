@@ -40,3 +40,6 @@ Profitability by Region: Regional trends in profit margins.
 Sales by Payment Mode: Breakdown of sales based on payment methods.
 
 Most Preferred Payment Mode.
+
+- [**Dashboard PDF**](https://github.com/shalini0293/E-comm-Sales-Power-BI/blob/main/E-commerce%20Sales%20Dashboard.pdf) – Visual overview of the e-commerce sales insights.
+

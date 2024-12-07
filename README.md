@@ -15,9 +15,7 @@ Total Sales: Sum of Amount.
 Total Profit: Sum of Profit.
 
 **Average Order Value:** 
-Total Sales
-/
-Number of Orders
+
 Total Sales/Number of Orders.
 
 **Performance by Category/Sub-Category:**
